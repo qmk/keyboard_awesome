@@ -44,7 +44,9 @@ To be listed here a store must sell a fully programmable keyboard (kit or assemb
 * [Keebio](https://keeb.io/)
 * [Keyboardio](https://shop.keyboard.io/)
 * [MechanicalKeyboards.com](https://mechanicalkeyboards.com/)
+* [MechKeyAlpha](https://meckeyalpha.com/)
 * [Kono](https://kono.store/)
+* [LFKeyboards](https://www.lfkeyboards.com/)
 * [Massdrop](https://massdrop.com)
 * [OLKB](https://olkb.com)
 * [Profet Keyboards](https://shop.profetkeyboards.com/)
@@ -62,6 +64,7 @@ To be listed here a store must accept and fulfill orders on an ongoing basis.
 * [MyKeyboard.eu](https://mykeyboard.eu/)
 * [Originative](https://www.originativeco.com/)
 * [Pimp My Keyboard](https://pimpmykeyboard.com)
+* [Tai-Hao](https://shop.tai-hao.com/)
 * [UK Keycaps](http://ukkeycaps.bigcartel.com/)
 * [WASD Keyboards](http://www.wasdkeyboards.com/index.php/products/keycap-set.html)
 
@@ -73,8 +76,19 @@ To be listed here a store must accept and fulfill orders on an ongoing basis.
 * [Doyu Studios](https://shopkey.doyustudio.com/)
 * [Keebio](https://keeb.io/)
 * [MechanicalKeyboards.com](https://mechanicalkeyboards.com/)
+* [MechKeyAlpha](https://meckeyalpha.com/)
 * [NovelKeys](https://novelkeys.xyz/)
+* [SpaceCat](https://spacecat.design/)
+* [SwitchMOD](https://www.switchmod.net/)
+* [SwitchTop](https://www.switchtop.com/products)
 * [Zeal PC](https://zealpc.net/)
+
+## Custom Cables
+
+To be listed here a store must accept and fulfill orders on an ongoing basis.
+
+* [Zap Cables](https://zapcables.com/)
+
 
 # Design Resources
 
