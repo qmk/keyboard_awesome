@@ -107,7 +107,7 @@ To be listed here a store must accept and fulfill orders on an ongoing basis.
 
 ## Keyboard/Keycap Design Tools
 
-* [Keyboard Layout Editor](https://keyboard-layout-editor.com/) - Design keyboard layouts and keycap sets
+* [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/) - Design keyboard layouts and keycap sets
 
 ## Keyboard Plate Generators
 
@@ -125,13 +125,13 @@ To be listed here a store must accept and fulfill orders on an ongoing basis.
 
 * [clueboard_eagle](https://github.com/skullydazed/clueboard_eagle) - Clueboard's EAGLE part libraries
 * [EAGLE Proton C](https://github.com/qmk/qmk_hardware/tree/master/eagle) - EAGLE footprint for the [Proton C](https://qmk.fm/proton-c)
-* [Kalerator](https://kalerator.clueboard.co/) - Turns [KLE layouts](https://keyboard-layout-editor.com/) into EAGLE PCB's
+* [Kalerator](https://kalerator.clueboard.co/) - Turns [KLE layouts](http://www.keyboard-layout-editor.com/) into EAGLE PCB's
 
 ### KiCAD Part Libraries and Tools
 
 * [Choc and MX Switches](https://github.com/daprice/keyswitches.pretty)
 * [Cole Markham's Keyboard Parts](https://github.com/colemarkham/keyboard_parts.pretty)
-* [kbpcb](http://kbpcb.mrkeebs.com/) - Turns [KLE layouts](https://keyboard-layout-editor.com/) into KiCAD PCB's
+* [kbpcb](http://kbpcb.mrkeebs.com/) - Turns [KLE layouts](http://www.keyboard-layout-editor.com/) into KiCAD PCB's
 * [Keebio Keyboard Parts](https://github.com/keebio/Keebio-Parts.pretty)
 * [MX Alps Hybrid](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty)
 * [Proton C](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c) footprint
@@ -202,7 +202,6 @@ To be listed here a project must offer files that can be easily edited, EG KiCAD
 
 * [Game cart macropad](https://www.thingiverse.com/thing:3029578) - 4x4 numpad-style macropad with a retro gaming look (3D printed case only)
 * [Geekpad](https://git.bthlabs.pl/tomekwojcik/geekpad/) - 3x3 macropad (3D printed case and pcb)
-* [Hayabusa](https://github.com/ai03-2725/Hayabusa) - 5x5 macropad (pcb only)
 * [Kboard](https://github.com/dekuNukem/kbord) - 3x5 macropad (laser cut case and pcb)
 
 # Firmware
